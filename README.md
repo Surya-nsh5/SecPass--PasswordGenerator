@@ -63,4 +63,3 @@ This application is completely production-ready and can be deployed instantly on
 
 ---
 Developed by **Suryansh Chauhan** | [suryanshr38@gmail.com](mailto:suryanshr38@gmail.com)  
-Built for [Digital Heroes](https://digitalheroesco.com)
