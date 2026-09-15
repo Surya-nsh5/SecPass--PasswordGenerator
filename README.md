@@ -61,5 +61,3 @@ This application is completely production-ready and can be deployed instantly on
 3. Import your GitHub repository.
 4. Vercel will automatically detect the Create React App framework and deploy it flawlessly without any extra configuration.
 
----
-Developed by **Suryansh Chauhan** | [suryanshr38@gmail.com](mailto:suryanshr38@gmail.com)  
