@@ -159,7 +159,7 @@ const PasswordGenerator = () => {
 
       <div className="footer-section">
         <div className="user-info">
-          Developed by <strong>Suryansh Chauhan</strong> | <a href="mailto:suryanshr38@gmail.com">suryanshr38@gmail.com</a>
+          Developed by <strong>Surya-nsh5</strong>
         </div>
       </div>
     </div>
